@@ -1,0 +1,13 @@
+### **4. requirements.txt**
+```text
+tkinter
+customtkinter
+psutil
+requests
+platform
+socket
+uuid
+threading
+wmi; platform_system=="Windows"
+pywin32; platform_system=="Windows"
+GPUtil
