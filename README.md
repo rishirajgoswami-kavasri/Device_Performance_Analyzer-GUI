@@ -1,4 +1,4 @@
-# Device Performance Analyzer (KAVASRI)
+# Device Performance Analyzer GUI App (KAVASRI)
 
 
 **Short summary**
