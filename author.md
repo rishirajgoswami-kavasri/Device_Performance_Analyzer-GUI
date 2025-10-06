@@ -1,4 +1,4 @@
-# Rishiraj Goswami — Founder & Multi-Domain Innovator (KAVASRI) 🚀
+# Rishiraj Goswami — CEO & Co-Founder & Multi-Domain Innovator (KAVASRI) 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/rishirajgoswami?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rishirajgoswami?style=social)
